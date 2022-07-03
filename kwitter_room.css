@@ -1,0 +1,9 @@
+#mainscreen {
+    background: url("rome.jpg");
+    background-repeat: no-repeat;
+    background-size: 1100px 500px;
+    font-family: 'Acme', sans-serif;
+  }
+  #room_name {
+      width: 300px;
+  }

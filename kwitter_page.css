@@ -1,0 +1,9 @@
+#page {
+background: url("paper.jpg");
+background-repeat: no-repeat;
+background-size: 1100px 600px;
+font-family: 'Acme', sans-serif;
+}
+#msg {
+    width: 300px;
+}
